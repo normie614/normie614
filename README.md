@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript.**
 
-- 🤝 I’m looking for help with **anything that will make my skills improve.**
+- 🤝 I’m looking for help with **anything that will improve my skills.**
 
 - 📫 How to reach me **Normie614@gmail.com**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/#4326" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4326" height="30" width="40" /></a>
+<a href="https://discordapp.com/users/272560611504816135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4326" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
